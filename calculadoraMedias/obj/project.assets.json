@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luiz.c.silva\\Desktop\\calcularnotas\\Calculadora de medias\\.CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\luiz.c.silva\\Desktop\\calcularnotas\\calculadoraMedias\\.CursoCSharp.csproj",
       "projectName": ".CursoCSharp",
-      "projectPath": "C:\\Users\\luiz.c.silva\\Desktop\\calcularnotas\\Calculadora de medias\\.CursoCSharp.csproj",
+      "projectPath": "C:\\Users\\luiz.c.silva\\Desktop\\calcularnotas\\calculadoraMedias\\.CursoCSharp.csproj",
       "packagesPath": "C:\\Users\\luiz.c.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luiz.c.silva\\Desktop\\calcularnotas\\Calculadora de medias\\obj\\",
+      "outputPath": "C:\\Users\\luiz.c.silva\\Desktop\\calcularnotas\\calculadoraMedias\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luiz.c.silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
